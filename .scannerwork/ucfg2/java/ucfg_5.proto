@@ -1,0 +1,52 @@
+
+ycom.example.vol.controllers.ClientController#updateClient(Lcom/example/vol/models/Client;)Lcom/example/vol/models/Client;|
+r/C:/Users/wissal/Desktop/voyage/vol_backend-master/src/main/java/com/example/vol/controllers/ClientController.java$ $("startingBlock*…
+startingBlock$ $(5ç
+ä
+# #(
+%1"
+__annotate**
+
+__unknown_file (
+
+PutMapping*@
+
+__unknown_file ($
+"
+ccom.example.vol.models.Clienté
+ã
+$ $(+
+%2"
+__annotate*+
+
+__unknown_file (
+RequestBody*@
+
+__unknown_file ($
+"
+ccom.example.vol.models.Clientá
+Ñ
+$3 $(4"
+ccom.example.vol.models.Client"__annotation*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%2*
+1*–
+1% %(¨
+©
+% %(3
+%0-com.example.vol.repositories.ClientRepository"__id*b
+
+__unknown_file (F*D.
+,com.example.vol.controllers.ClientController"
+clientRepository"
+% %(0
+"":.
+$ $(4"
+ccom.example.vol.models.ClientB0.
+,com.example.vol.controllers.ClientControllerH

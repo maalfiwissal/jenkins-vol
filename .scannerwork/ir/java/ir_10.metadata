@@ -1,0 +1,6 @@
+com.example.vol.controllers.AuthController#authenticateUser(Lcom/example/vol/models/LoginRequest;)LResponseEntity;
+null
+==
+generateToken com.example.vol.security.jwt.JwtUtils#generateToken(Ljava/lang/String;)Lcom/example/vol/models/Token;
+getPassword com.example.vol.models.LoginRequest#getPassword()Ljava/lang/String;
+getUsername com.example.vol.models.LoginRequest#getUsername()Ljava/lang/String;

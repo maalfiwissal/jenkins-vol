@@ -1,0 +1,51 @@
+
+Åcom.example.vol.controllers.PassagerController#updatePassager(Lcom/example/vol/models/Passager;)Lcom/example/vol/models/Passager;~
+t/C:/Users/wissal/Desktop/voyage/vol_backend-master/src/main/java/com/example/vol/controllers/PassagerController.java% %(""startingBlock*”
+startingBlock%" %(;ì
+ê
+$ $(B
+%1"
+__annotate*.
+
+__unknown_file (
+RequestMapping*B
+
+__unknown_file (&
+$
+pcom.example.vol.models.Passagerê
+ç
+%# %(/
+%2"
+__annotate*+
+
+__unknown_file (
+RequestBody*B
+
+__unknown_file (&
+$
+pcom.example.vol.models.Passagerâ
+Ü
+%9 %(:$
+pcom.example.vol.models.Passager"__annotation*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%2*
+1*÷
+1& &(!≤
+Ø
+& &(!5
+%0/com.example.vol.repositories.PassagerRepository"__id*f
+
+__unknown_file (J*H0
+.com.example.vol.controllers.PassagerController"
+passagerRepository"
+& &(2
+"":0
+%# %(:$
+pcom.example.vol.models.PassagerB20
+.com.example.vol.controllers.PassagerControllerH

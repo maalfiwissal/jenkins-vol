@@ -1,0 +1,7 @@
+organization=sonarcub
+projectKey=sonarcub_testprojet
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51948
+dashboardUrl=https://sonarcloud.io/dashboard?id=sonarcub_testprojet
+ceTaskId=AYzuMa3DaFitCcXUIims
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzuMa3DaFitCcXUIims

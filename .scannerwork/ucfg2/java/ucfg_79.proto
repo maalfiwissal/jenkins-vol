@@ -1,0 +1,53 @@
+
+ˆcom.example.vol.security.services.UserPrincipal#build(Lcom/example/vol/models/AppUser;)Lcom/example/vol/security/services/UserPrincipal;
+u/C:/Users/wissal/Desktop/voyage/vol_backend-master/src/main/java/com/example/vol/security/services/UserPrincipal.java   (""1*¤	
+1# #(ª§
+# #(
+%0java.lang.Long"6com.example.vol.models.AppUser#getId()Ljava/lang/Long;*D
+
+__unknown_file ((
+&
+usercom.example.vol.models.AppUser2getId()º·
+$ $(
+%1java.lang.String">com.example.vol.models.AppUser#getUsername()Ljava/lang/String;*D
+
+__unknown_file ((
+&
+usercom.example.vol.models.AppUser2getUsername()º·
+% %(
+%2java.lang.String">com.example.vol.models.AppUser#getPassword()Ljava/lang/String;*D
+
+__unknown_file ((
+&
+usercom.example.vol.models.AppUser2getPassword()tr
+" "(5
+%3/com.example.vol.security.services.UserPrincipal"/com.example.vol.security.services.UserPrincipal²
+¯
+"	 &(	
+%4"ƒcom.example.vol.security.services.UserPrincipal#<init>(Ljava/lang/Long;Ljava/lang/String;Ljava/lang/String;Ljava/util/Collection;)V*S
+
+__unknown_file (7
+5
+%3/com.example.vol.security.services.UserPrincipal*2
+
+__unknown_file (
+
+%0java.lang.Long*4
+
+__unknown_file (
+
+%1java.lang.String*4
+
+__unknown_file (
+
+%2java.lang.String*"
+
+__unknown_file (
+"""C
+" &(
+7
+5
+%3/com.example.vol.security.services.UserPrincipal:2
+ #  (/&
+usercom.example.vol.models.AppUserB3"1
+/com.example.vol.security.services.UserPrincipalH

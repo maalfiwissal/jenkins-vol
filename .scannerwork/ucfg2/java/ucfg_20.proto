@@ -1,0 +1,14 @@
+
+Pcom.example.vol.controllers.PassagerController#getAllPassagers()Ljava/util/List;~
+t/C:/Users/wissal/Desktop/voyage/vol_backend-master/src/main/java/com/example/vol/controllers/PassagerController.java ()"1*Ö
+1 (!²
+¯
+ (!5
+%0/com.example.vol.repositories.PassagerRepository"__id*f
+
+__unknown_file (J*H0
+.com.example.vol.controllers.PassagerController"
+passagerRepository"
+ (,
+""B20
+.com.example.vol.controllers.PassagerControllerH

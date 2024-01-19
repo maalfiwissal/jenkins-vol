@@ -1,0 +1,6 @@
+com.example.vol.controllers.ClientController#signInClient(Lcom/example/vol/models/Client;)LResponseEntity;
+null
+==
+getLoginClt com.example.vol.models.Client#getLoginClt()Ljava/lang/String;
+findByLoginCltAndPasswordClt com.example.vol.repositories.ClientRepository#findByLoginCltAndPasswordClt(Ljava/lang/String;Ljava/lang/String;)Lcom/example/vol/models/Client;
+getPasswordClt com.example.vol.models.Client#getPasswordClt()Ljava/lang/String;

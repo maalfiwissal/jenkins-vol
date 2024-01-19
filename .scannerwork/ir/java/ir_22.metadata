@@ -1,0 +1,4 @@
+com.example.vol.controllers.ClientController#getListReservationsById(I)Ljava/util/List;
+==
+findByIdClt com.example.vol.repositories.ClientRepository#findByIdClt(I)Lcom/example/vol/models/Client;
+getReservations com.example.vol.models.Client#getReservations()Ljava/util/List;
